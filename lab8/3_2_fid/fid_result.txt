@@ -1,0 +1,4 @@
+Real images:     2 from fid_test_images
+Generated images:3
+FID:             348.0623
+Note: meaningful FID requires 10,000+ images.

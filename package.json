@@ -1,0 +1,23 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_report.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanylchenkoKateryna/-Image-processing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanylchenkoKateryna/-Image-processing/issues"
+  },
+  "homepage": "https://github.com/DanylchenkoKateryna/-Image-processing#readme",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}

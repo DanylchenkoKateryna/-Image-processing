@@ -1,0 +1,27 @@
+CLIPScore Results
+============================================================
+controlnet_test/input.png
+  prompt: a portrait painting of a person
+  score:  23.55
+
+controlnet_test/input.png
+  prompt: a dog running in a park
+  score:  12.55
+
+controlnet_test/input.png
+  prompt: a landscape with mountains
+  score:  17.28
+
+2_1_basic_sd\generated_01.png
+  prompt: a beautiful mountain landscape with a lake, photorealistic
+  score:  32.09
+
+2_1_basic_sd\generated_02.png
+  prompt: a futuristic city at night with neon lights
+  score:  33.44
+
+2_1_basic_sd\generated_03.png
+  prompt: a cozy cottage in the forest, warm light, autumn
+  score:  34.69
+
+Average: 25.60

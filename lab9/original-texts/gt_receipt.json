@@ -1,0 +1,11 @@
+{
+    "items": [
+        {"amount": 9.30, "currency": "UAH"},
+        {"amount": 16.50, "currency": "UAH"},
+        {"amount": 24.35, "currency": "UAH"},
+        {"amount": 9.30, "currency": "UAH"},
+        {"amount": 43.50, "currency": "UAH"},
+        {"amount": 7.95, "currency": "UAH"}
+    ],
+    "total": {"amount": 110.90, "currency": "UAH"}
+}
